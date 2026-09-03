@@ -1,0 +1,6 @@
+{
+  "name": "모디파이",
+  "description": "모디파이 MODIFI (毛 + Modify / Define Differently) - 모(毛)를 다르게 정의하고 바꾸다, 3040 맞춤 탈모 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

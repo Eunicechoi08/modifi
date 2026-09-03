@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="modi_forest">#263A32</color>
+    <color name="modi_forest_dark">#1B2A24</color>
+    <color name="modi_sage">#879B8A</color>
+    <color name="modi_sage_light">#E8EFEA</color>
+    <color name="modi_ivory">#F7F4ED</color>
+    <color name="modi_rose">#D9A48F</color>
+    <color name="modi_rose_light">#FAF1ED</color>
+    <color name="modi_charcoal">#242824</color>
+    <color name="modi_sand">#EFECE3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
